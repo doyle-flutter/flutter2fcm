@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "957776137461",
+    "firebase_url": "https://allm-bda05.firebaseio.com",
+    "project_id": "allm-bda05",
+    "storage_bucket": "allm-bda05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957776137461:android:c576be44ae1760fb1c89bc",
+        "android_client_info": {
+          "package_name": "com.doyle.basicflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957776137461-ell5a1auhdrbjaig1bi4ma9tj30gcpqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBssoJlkJWRFb7NzyjEg_05BxIbHK2yS7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957776137461-ell5a1auhdrbjaig1bi4ma9tj30gcpqj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "957776137461-0d7ovas7t4jrp0qtj0ukvi5v9fl2v904.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.doyle.connectnode"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957776137461:android:27fb0ccc317554381c89bc",
+        "android_client_info": {
+          "package_name": "com.doyle.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957776137461-ell5a1auhdrbjaig1bi4ma9tj30gcpqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBssoJlkJWRFb7NzyjEg_05BxIbHK2yS7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957776137461-ell5a1auhdrbjaig1bi4ma9tj30gcpqj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "957776137461-0d7ovas7t4jrp0qtj0ukvi5v9fl2v904.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.doyle.connectnode"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957776137461:android:999daefc6c702b181c89bc",
+        "android_client_info": {
+          "package_name": "com.doyle.func"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957776137461-ell5a1auhdrbjaig1bi4ma9tj30gcpqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBssoJlkJWRFb7NzyjEg_05BxIbHK2yS7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957776137461-ell5a1auhdrbjaig1bi4ma9tj30gcpqj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "957776137461-0d7ovas7t4jrp0qtj0ukvi5v9fl2v904.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.doyle.connectnode"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
