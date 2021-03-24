@@ -10,6 +10,6 @@ Android 및 WEB 테스트 완료되었으며 IOS 는 APNs 설정 등을 별도�
 <br/>
 
 ### Test 👉 Foreground & background & Terminated
-- [x] Android
+- [x] Android 👉 (Video)[https://youtu.be/vrCCXxPZG30]
 - [ ] IOS : APNs 영상 별도 등록 예정
-- [x] WEB
+- [x] WEB & NodeJS 👉 (Video)[https://youtu.be/qMHu2FjJ6pY]
