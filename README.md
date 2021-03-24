@@ -9,7 +9,7 @@ WEB 까지 진행되며 코드는 단순하지만 설정 부분을 보셔야하�
 - FCM(FirebaseCloudMessage) : 9.0.1 / [pub](https://pub.dev/packages/firebase_messaging/example)
 <br/>
 
-### Test
+### Test 👉 Foreground & background & Terminated
 - Android : 3/24
 - IOS : ing ...
-- WEB : ing ...
+- WEB : 3/24
