@@ -11,5 +11,5 @@ WEB 까지 진행되며 코드는 단순하지만 설정 부분을 보셔야하�
 
 ### Test 👉 Foreground & background & Terminated
 - Android : 3/24
-- IOS : ing ...
+- IOS : APNs 영상 별도 등록 예정
 - WEB : 3/24
